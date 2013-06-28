@@ -1,227 +1,222 @@
-[AL](#AL)
+<p><a href="#AL">AL</a></p>
 
-Troy Cablevision (AL):  The project will study the effects of two different subsidy amounts.
- 
-Troy Cablevision, in partnership with the Alabama Department of Economic and Community Affairs and ICF International, will test the effects of subsidy amounts on adoption by offering a $14 subsidy off a wireline broadband plan within two counties and offer a $24 discount off the same wireline broadband plan in two separate counties.   Lifeline support for this project will not exceed $448,130, and includes reimbursement for non-recurring fees.
+<p>Troy Cablevision (AL): The project will study the effects of two different subsidy amounts.</p>
 
-Contact:  Jake Cowen, 334-770-3328, www.troycable.net
+<p>Troy Cablevision, in partnership with the Alabama Department of Economic and Community Affairs and ICF International, will test the effects of subsidy amounts on adoption by offering a $14 subsidy off a wireline broadband plan within two counties and offer a $24 discount off the same wireline broadband plan in two separate counties. Lifeline support for this project will not exceed $448,130, and includes reimbursement for non-recurring fees.</p>
 
-[AZ](#AL)
+<p>Contact: Jake Cowen, 334&#8211;770&#8211;3328, www.troycable.net</p>
 
-Gila River Telecommunications, Inc.:  The project will study the effects of varying subsidy amounts and choices for speed.
+<p><a href="#AL">AZ</a></p>
 
-Gila River, in partnership with NeoNova Network Services, Inc., Tinhorn Consulting and Letha Lamb, will test the effect of subsidy amounts, access to discounted equipment and broadband speeds on adoption by randomly assigning subscribers into five groups based on different price points, speed and access to equipment, which includes the use of a control group.  The subsidy amounts for the broadband plans range from $23.24 to $38.24 with varying speeds.  Gila River will track which consumers choose to participate based on the variations in broadband service.  Lifeline support for this project will not exceed $323,100, and includes reimbursement for non-recurring fees.
+<p>Gila River Telecommunications, Inc.: The project will study the effects of varying subsidy amounts and choices for speed.</p>
 
-Contact:  Orvan Byler, 520-796-3333, obyler@gilarivertel.com
+<p>Gila River, in partnership with NeoNova Network Services, Inc., Tinhorn Consulting and Letha Lamb, will test the effect of subsidy amounts, access to discounted equipment and broadband speeds on adoption by randomly assigning subscribers into five groups based on different price points, speed and access to equipment, which includes the use of a control group. The subsidy amounts for the broadband plans range from $23.24 to $38.24 with varying speeds. Gila River will track which consumers choose to participate based on the variations in broadband service. Lifeline support for this project will not exceed $323,100, and includes reimbursement for non-recurring fees.</p>
 
-Hopi Telecommunications, Inc.:  The project will study the effects of varying end-user charges based on speed and access to discounted equipment.
- 
-Hopi, in partnership with Connected Nation, will test the effect of subsidy amounts, access to discounted equipment and broadband speeds on adoption by offering a flat subsidy of $39.95 for three different plans with variations on end-user charge depending on speed, and access to discounted equipment.  Hopi Telecommunications will be able to report on which prices were more effective in increasing adoption and the impacts on having access to discounted equipment.  Lifeline support for this project will not exceed $226,752, with no reimbursement for non-recurring fees.
+<p>Contact: Orvan Byler, 520&#8211;796&#8211;3333, obyler@gilarivertel.com</p>
 
-Contact:  Darlene Burden, 928-522-8428, http://www.hopitelecom.com
+<p>Hopi Telecommunications, Inc.: The project will study the effects of varying end-user charges based on speed and access to discounted equipment.</p>
 
-[CA](#CA)
+<p>Hopi, in partnership with Connected Nation, will test the effect of subsidy amounts, access to discounted equipment and broadband speeds on adoption by offering a flat subsidy of $39.95 for three different plans with variations on end-user charge depending on speed, and access to discounted equipment. Hopi Telecommunications will be able to report on which prices were more effective in increasing adoption and the impacts on having access to discounted equipment. Lifeline support for this project will not exceed $226,752, with no reimbursement for non-recurring fees.</p>
 
-Nexus:  The project will study the effects of varying subsidy amounts, usage limits and access to digital literacy.
- 
-Nexus, in partnership with Connect Ohio, will test the effect of subsidy amounts and digital literacy on adoption by giving one group of subscribers a $15 subsidy, a second group $20 and a third no subsidy (groups are offered plans based on zip code).  These subsidies will lower the offered price by the subsidy amount for a menu of plans, which are varied based on usage limits.  By allowing customers to select their usage limits, Nexus will be able to report subscribers’ willingness to pay for data limit increases and also learn if subscribers were satisfied retrospectively with their choice.  Lifeline support for this project will not exceed $2,800,000, with no reimbursement for non-recurring fees.
+<p>Contact: Darlene Burden, 928&#8211;522&#8211;8428, http://www.hopitelecom.com</p>
 
-Contact:  Danielle Frappier, 202-973-4242, daniellefrappier@dwt.com
+<p><a href="#CA">CA</a></p>
 
-[FL](#FL)
+<p>Nexus: The project will study the effects of varying subsidy amounts, usage limits and access to digital literacy.</p>
 
-TracFone Smartphone Project:  The project will study the
-effects of subsidy amounts and discounted hardware.
+<p>Nexus, in partnership with Connect Ohio, will test the effect of subsidy amounts and digital literacy on adoption by giving one group of subscribers a $15 subsidy, a second group $20 and a third no subsidy (groups are offered plans based on zip code). These subsidies will lower the offered price by the subsidy amount for a menu of plans, which are varied based on usage limits. By allowing customers to select their usage limits, Nexus will be able to report subscribers’ willingness to pay for data limit increases and also learn if subscribers were satisfied retrospectively with their choice. Lifeline support for this project will not exceed $2,800,000, with no reimbursement for non-recurring fees.</p>
 
-TracFone, in partnership with Technology Goes Home, will test the effect of both discounted price and hardware cost on mobile broadband adoption and retention using four variations in its broadband service plans and one control group randomly assigned over a large, geographically diverse sample.  By offering varying combinations of free or discounted hardware and $10 or $20 per month service, low-income customers’ sensitivity to upfront and ongoing prices can be measured.  By comparing the two variations in offers with the control group, which is priced at market rate, TracFone will be able to estimate the take-rate for each price point with 2 GB on data limits.  Lifeline support for this project will not exceed $915,000, with no reimbursement for non-recurring fees.
+<p>Contact: Danielle Frappier, 202&#8211;973&#8211;4242, daniellefrappier@dwt.com</p>
 
-Contact:  Linda Jacobs, 305-715-6645, LJacobs@tracfone.com
+<p><a href="#FL">FL</a></p>
 
-[IA](#IA)
+<p>TracFone Smartphone Project: The project will study the
+effects of subsidy amounts and discounted hardware.</p>
 
-NTCA Application:  The project will study the effects of decreasing subsidy amounts over the year.
- 
-The NTCA Application, which includes Alpine Communications (IA) and Leaco Rural Telephone (NM), in partnership with Connected Nation, will test subsidy design by offering a range of wireline broadband plans in one state with a flat subsidy amount of $25 per month for all 12 months and offering a range of wireline broadband plans in another state with a sliding scale subsidy that is initially $40 per month for the first quarter and is reduced each quarter thereafter in increments of $10, with the last quarter providing a subsidy of $10 per month, thereby increasing the monthly end-user charge by $30.  Lifeline support for this project will not exceed $202,652, and includes reimbursement for non-recurring fees.  The budget is broken-up between the ETCs as follows: Alpine Communications’ budget will not exceed $35,995; and Leaco Rural Telephone’s budget will not exceed $166,657.
-Contact: Alpine Communications – Lori Keppler, 563-245-4000, www.alpinecom.net; Leaco Rural Telephone – Charity Benton, 575-370-5010, www.leaco.net
+<p>TracFone, in partnership with Technology Goes Home, will test the effect of both discounted price and hardware cost on mobile broadband adoption and retention using four variations in its broadband service plans and one control group randomly assigned over a large, geographically diverse sample. By offering varying combinations of free or discounted hardware and $10 or $20 per month service, low-income customers’ sensitivity to upfront and ongoing prices can be measured. By comparing the two variations in offers with the control group, which is priced at market rate, TracFone will be able to estimate the take-rate for each price point with 2 GB on data limits. Lifeline support for this project will not exceed $915,000, with no reimbursement for non-recurring fees.</p>
 
-Nexus:  The project will study the effects of varying subsidy amounts, usage limits and access to digital literacy.
- 
-Nexus, in partnership with Connect Ohio, will test the effect of subsidy amounts and digital literacy on adoption by giving one group of subscribers a $15 subsidy, a second group $20 and a third no subsidy (groups are offered plans based on zip code).  These subsidies will lower the offered price by the subsidy amount for a menu of plans, which are varied based on usage limits.  By allowing customers to select their usage limits, Nexus will be able to report subscribers’ willingness to pay for data limit increases and also learn if subscribers were satisfied retrospectively with their choice.  Lifeline support for this project will not exceed $2,800,000, with no reimbursement for non-recurring fees.
+<p>Contact: Linda Jacobs, 305&#8211;715&#8211;6645, LJacobs@tracfone.com</p>
 
-Contact:  Danielle Frappier, 202-973-4242, daniellefrappier@dwt.com
+<p><a href="#IA">IA</a></p>
 
-[IL](#IL)
+<p>NTCA Application: The project will study the effects of decreasing subsidy amounts over the year.</p>
 
-Partnership for a Connected Illinois Project:  The project will study the effects of access to digital literacy and consumers’ choice among plans offering varying speed.
- 
-The Partnership for a Connected Illinois Project, in partnership with Connected Living, Inc., Citizens Utility Board, and John B. Horrigan, will focus on studying the impact of digital literacy on adoption among the member ETCs by tracking usage and retention of service during the 12 month pilot to determine if such training helps subscribers overcome adoption hurdles (e.g., relevance, privacy concerns).  This project will test the impact of digital literacy by offering one group of subscribers a flat rate $30 subsidy for 12 months off each of the ETCs’ broadband plans that are priced based on speed, as well as intensive digital literacy training, and a second group of subscribers will receive the same $30 subsidy but will not receive an offer for digital literacy training.  The project will also study the choices subscribers make in determining speeds because they will be allowed to choose from speed packages offered by each participating ETC.  Lifeline support will not exceed $1,514,284, and includes reimbursement for non-recurring fees for each ETC.
+<p>The NTCA Application, which includes Alpine Communications (IA) and Leaco Rural Telephone (NM), in partnership with Connected Nation, will test subsidy design by offering a range of wireline broadband plans in one state with a flat subsidy amount of $25 per month for all 12 months and offering a range of wireline broadband plans in another state with a sliding scale subsidy that is initially $40 per month for the first quarter and is reduced each quarter thereafter in increments of $10, with the last quarter providing a subsidy of $10 per month, thereby increasing the monthly end-user charge by $30. Lifeline support for this project will not exceed $202,652, and includes reimbursement for non-recurring fees. The budget is broken-up between the ETCs as follows: Alpine Communications’ budget will not exceed $35,995; and Leaco Rural Telephone’s budget will not exceed $166,657.
+Contact: Alpine Communications – Lori Keppler, 563&#8211;245&#8211;4000, www.alpinecom.net; Leaco Rural Telephone – Charity Benton, 575&#8211;370&#8211;5010, www.leaco.net</p>
 
-Contact: Lacey Buss, Project Manager, 217-886-4030, lacey@broadbandillinois.org, www.broadbandillinois.org/lifeline
+<p>Nexus: The project will study the effects of varying subsidy amounts, usage limits and access to digital literacy.</p>
 
+<p>Nexus, in partnership with Connect Ohio, will test the effect of subsidy amounts and digital literacy on adoption by giving one group of subscribers a $15 subsidy, a second group $20 and a third no subsidy (groups are offered plans based on zip code). These subsidies will lower the offered price by the subsidy amount for a menu of plans, which are varied based on usage limits. By allowing customers to select their usage limits, Nexus will be able to report subscribers’ willingness to pay for data limit increases and also learn if subscribers were satisfied retrospectively with their choice. Lifeline support for this project will not exceed $2,800,000, with no reimbursement for non-recurring fees.</p>
 
-[LA](#LA)
+<p>Contact: Danielle Frappier, 202&#8211;973&#8211;4242, daniellefrappier@dwt.com</p>
 
-Nexus:  The project will study the effects of varying subsidy amounts, usage limits and access to digital literacy.
- 
-Nexus, in partnership with Connect Ohio, will test the effect of subsidy amounts and digital literacy on adoption by giving one group of subscribers a $15 subsidy, a second group $20 and a third no subsidy (groups are offered plans based on zip code).  These subsidies will lower the offered price by the subsidy amount for a menu of plans, which are varied based on usage limits.  By allowing customers to select their usage limits, Nexus will be able to report subscribers’ willingness to pay for data limit increases and also learn if subscribers were satisfied retrospectively with their choice.  Lifeline support for this project will not exceed $2,800,000, with no reimbursement for non-recurring fees.
+<p><a href="#IL">IL</a></p>
 
-Contact:  Danielle Frappier, 202-973-4242, daniellefrappier@dwt.com
+<p>Partnership for a Connected Illinois Project: The project will study the effects of access to digital literacy and consumers’ choice among plans offering varying speed.</p>
 
-[MA](#MA)
+<p>The Partnership for a Connected Illinois Project, in partnership with Connected Living, Inc., Citizens Utility Board, and John B. Horrigan, will focus on studying the impact of digital literacy on adoption among the member ETCs by tracking usage and retention of service during the 12 month pilot to determine if such training helps subscribers overcome adoption hurdles (e.g., relevance, privacy concerns). This project will test the impact of digital literacy by offering one group of subscribers a flat rate $30 subsidy for 12 months off each of the ETCs’ broadband plans that are priced based on speed, as well as intensive digital literacy training, and a second group of subscribers will receive the same $30 subsidy but will not receive an offer for digital literacy training. The project will also study the choices subscribers make in determining speeds because they will be allowed to choose from speed packages offered by each participating ETC. Lifeline support will not exceed $1,514,284, and includes reimbursement for non-recurring fees for each ETC.</p>
 
-TracFone Smartphone Project:  The project will study the
-effects of subsidy amounts and discounted hardware.
+<p>Contact: Lacey Buss, Project Manager, 217&#8211;886&#8211;4030, lacey@broadbandillinois.org, www.broadbandillinois.org/lifeline</p>
 
-TracFone, in partnership with Technology Goes Home, will test the effect of both discounted price and hardware cost on mobile broadband adoption and retention using four variations in its broadband service plans and one control group randomly assigned over a large, geographically diverse sample.  By offering varying combinations of free or discounted hardware and $10 or $20 per month service, low-income customers’ sensitivity to upfront and ongoing prices can be measured.  By comparing the two variations in offers with the control group, which is priced at market rate, TracFone will be able to estimate the take-rate for each price point with 2 GB on data limits.  Lifeline support for this project will not exceed $915,000, with no reimbursement for non-recurring fees.
+<p><a href="#LA">LA</a></p>
 
-Contact:  Linda Jacobs, 305-715-6645, LJacobs@tracfone.com
+<p>Nexus: The project will study the effects of varying subsidy amounts, usage limits and access to digital literacy.</p>
 
-Virgin Mobile:  The project will study the effects of subsidy amounts and discounted equipment.
- 
-Virgin Mobile, in partnership with Technology Goes Home, will test the effect on adoption and retention of discounted prices and device costs by randomly offering one of four treatment groups to a large, geographically diverse sample.  Two groups of subscribers will pay $20 while another two groups of subscribers will pay $0 with a $20 activation fee.  This project will provide information on customers’ relative sensitivity to upfront and ongoing costs, as well as the expected subscribership increase from a lower cost offering.  This will also provide information on adoption and data usage.  Lifeline support for this project will not exceed $1,200,000, with no reimbursement for non-recurring fees.
+<p>Nexus, in partnership with Connect Ohio, will test the effect of subsidy amounts and digital literacy on adoption by giving one group of subscribers a $15 subsidy, a second group $20 and a third no subsidy (groups are offered plans based on zip code). These subsidies will lower the offered price by the subsidy amount for a menu of plans, which are varied based on usage limits. By allowing customers to select their usage limits, Nexus will be able to report subscribers’ willingness to pay for data limit increases and also learn if subscribers were satisfied retrospectively with their choice. Lifeline support for this project will not exceed $2,800,000, with no reimbursement for non-recurring fees.</p>
 
-Contact:  Elaine M. Divelbliss, 908-660-0358, Elaine.Divelbliss@sprint.com
+<p>Contact: Danielle Frappier, 202&#8211;973&#8211;4242, daniellefrappier@dwt.com</p>
 
-[MD](#MD)
+<p><a href="#MA">MA</a></p>
 
-TracFone Smartphone Project:  The project will study the
-effects of subsidy amounts and discounted hardware.
+<p>TracFone Smartphone Project: The project will study the
+effects of subsidy amounts and discounted hardware.</p>
 
-TracFone, in partnership with Technology Goes Home, will test the effect of both discounted price and hardware cost on mobile broadband adoption and retention using four variations in its broadband service plans and one control group randomly assigned over a large, geographically diverse sample.  By offering varying combinations of free or discounted hardware and $10 or $20 per month service, low-income customers’ sensitivity to upfront and ongoing prices can be measured.  By comparing the two variations in offers with the control group, which is priced at market rate, TracFone will be able to estimate the take-rate for each price point with 2 GB on data limits.  Lifeline support for this project will not exceed $915,000, with no reimbursement for non-recurring fees.
+<p>TracFone, in partnership with Technology Goes Home, will test the effect of both discounted price and hardware cost on mobile broadband adoption and retention using four variations in its broadband service plans and one control group randomly assigned over a large, geographically diverse sample. By offering varying combinations of free or discounted hardware and $10 or $20 per month service, low-income customers’ sensitivity to upfront and ongoing prices can be measured. By comparing the two variations in offers with the control group, which is priced at market rate, TracFone will be able to estimate the take-rate for each price point with 2 GB on data limits. Lifeline support for this project will not exceed $915,000, with no reimbursement for non-recurring fees.</p>
 
-Contact:  Linda Jacobs, 305-715-6645, LJacobs@tracfone.com
+<p>Contact: Linda Jacobs, 305&#8211;715&#8211;6645, LJacobs@tracfone.com</p>
 
-[MI](#MI)
+<p>Virgin Mobile: The project will study the effects of subsidy amounts and discounted equipment.</p>
 
-Nexus:  The project will study the effects of varying subsidy amounts, usage limits and access to digital literacy.
- 
-Nexus, in partnership with Connect Ohio, will test the effect of subsidy amounts and digital literacy on adoption by giving one group of subscribers a $15 subsidy, a second group $20 and a third no subsidy (groups are offered plans based on zip code).  These subsidies will lower the offered price by the subsidy amount for a menu of plans, which are varied based on usage limits.  By allowing customers to select their usage limits, Nexus will be able to report subscribers’ willingness to pay for data limit increases and also learn if subscribers were satisfied retrospectively with their choice.  Lifeline support for this project will not exceed $2,800,000, with no reimbursement for non-recurring fees.
+<p>Virgin Mobile, in partnership with Technology Goes Home, will test the effect on adoption and retention of discounted prices and device costs by randomly offering one of four treatment groups to a large, geographically diverse sample. Two groups of subscribers will pay $20 while another two groups of subscribers will pay $0 with a $20 activation fee. This project will provide information on customers’ relative sensitivity to upfront and ongoing costs, as well as the expected subscribership increase from a lower cost offering. This will also provide information on adoption and data usage. Lifeline support for this project will not exceed $1,200,000, with no reimbursement for non-recurring fees.</p>
 
-Contact:  Danielle Frappier, 202-973-4242, daniellefrappier@dwt.com
+<p>Contact: Elaine M. Divelbliss, 908&#8211;660&#8211;0358, Elaine.Divelbliss@sprint.com</p>
 
-[MS](#MS)
+<p><a href="#MD">MD</a></p>
 
-Nexus:  The project will study the effects of varying subsidy amounts, usage limits and access to digital literacy.
- 
-Nexus, in partnership with Connect Ohio, will test the effect of subsidy amounts and digital literacy on adoption by giving one group of subscribers a $15 subsidy, a second group $20 and a third no subsidy (groups are offered plans based on zip code).  These subsidies will lower the offered price by the subsidy amount for a menu of plans, which are varied based on usage limits.  By allowing customers to select their usage limits, Nexus will be able to report subscribers’ willingness to pay for data limit increases and also learn if subscribers were satisfied retrospectively with their choice.  Lifeline support for this project will not exceed $2,800,000, with no reimbursement for non-recurring fees.
+<p>TracFone Smartphone Project: The project will study the
+effects of subsidy amounts and discounted hardware.</p>
 
-Contact:  Danielle Frappier, 202-973-4242, daniellefrappier@dwt.com
+<p>TracFone, in partnership with Technology Goes Home, will test the effect of both discounted price and hardware cost on mobile broadband adoption and retention using four variations in its broadband service plans and one control group randomly assigned over a large, geographically diverse sample. By offering varying combinations of free or discounted hardware and $10 or $20 per month service, low-income customers’ sensitivity to upfront and ongoing prices can be measured. By comparing the two variations in offers with the control group, which is priced at market rate, TracFone will be able to estimate the take-rate for each price point with 2 GB on data limits. Lifeline support for this project will not exceed $915,000, with no reimbursement for non-recurring fees.</p>
 
-[NJ](#NJ)
+<p>Contact: Linda Jacobs, 305&#8211;715&#8211;6645, LJacobs@tracfone.com</p>
 
-Nexus:  The project will study the effects of varying subsidy amounts, usage limits and access to digital literacy.
- 
-Nexus, in partnership with Connect Ohio, will test the effect of subsidy amounts and digital literacy on adoption by giving one group of subscribers a $15 subsidy, a second group $20 and a third no subsidy (groups are offered plans based on zip code).  These subsidies will lower the offered price by the subsidy amount for a menu of plans, which are varied based on usage limits.  By allowing customers to select their usage limits, Nexus will be able to report subscribers’ willingness to pay for data limit increases and also learn if subscribers were satisfied retrospectively with their choice.  Lifeline support for this project will not exceed $2,800,000, with no reimbursement for non-recurring fees.
+<p><a href="#MI">MI</a></p>
 
-Contact:  Danielle Frappier, 202-973-4242, daniellefrappier@dwt.com
+<p>Nexus: The project will study the effects of varying subsidy amounts, usage limits and access to digital literacy.</p>
 
-[NM](#NM)
+<p>Nexus, in partnership with Connect Ohio, will test the effect of subsidy amounts and digital literacy on adoption by giving one group of subscribers a $15 subsidy, a second group $20 and a third no subsidy (groups are offered plans based on zip code). These subsidies will lower the offered price by the subsidy amount for a menu of plans, which are varied based on usage limits. By allowing customers to select their usage limits, Nexus will be able to report subscribers’ willingness to pay for data limit increases and also learn if subscribers were satisfied retrospectively with their choice. Lifeline support for this project will not exceed $2,800,000, with no reimbursement for non-recurring fees.</p>
 
-NTCA Application:  The project will study the effects of decreasing subsidy amounts over the year.
- 
-The NTCA Application, which includes Alpine Communications (IA) and Leaco Rural Telephone (NM), in partnership with Connected Nation, will test subsidy design by offering a range of wireline broadband plans in one state with a flat subsidy amount of $25 per month for all 12 months and offering a range of wireline broadband plans in another state with a sliding scale subsidy that is initially $40 per month for the first quarter and is reduced each quarter thereafter in increments of $10, with the last quarter providing a subsidy of $10 per month, thereby increasing the monthly end-user charge by $30.  Lifeline support for this project will not exceed $202,652, and includes reimbursement for non-recurring fees.  The budget is broken-up between the ETCs as follows: Alpine Communications’ budget will not exceed $35,995; and Leaco Rural Telephone’s budget will not exceed $166,657.
+<p>Contact: Danielle Frappier, 202&#8211;973&#8211;4242, daniellefrappier@dwt.com</p>
 
-Contact: Alpine Communications – Lori Keppler, 563-245-4000, www.alpinecom.net; Leaco Rural Telephone – Charity Benton, 575-370-5010, www.leaco.net
+<p><a href="#MS">MS</a></p>
 
-[NV](#NV)
+<p>Nexus: The project will study the effects of varying subsidy amounts, usage limits and access to digital literacy.</p>
 
-Nexus:  The project will study the effects of varying subsidy amounts, usage limits and access to digital literacy.
- 
-Nexus, in partnership with Connect Ohio, will test the effect of subsidy amounts and digital literacy on adoption by giving one group of subscribers a $15 subsidy, a second group $20 and a third no subsidy (groups are offered plans based on zip code).  These subsidies will lower the offered price by the subsidy amount for a menu of plans, which are varied based on usage limits.  By allowing customers to select their usage limits, Nexus will be able to report subscribers’ willingness to pay for data limit increases and also learn if subscribers were satisfied retrospectively with their choice.  Lifeline support for this project will not exceed $2,800,000, with no reimbursement for non-recurring fees.
+<p>Nexus, in partnership with Connect Ohio, will test the effect of subsidy amounts and digital literacy on adoption by giving one group of subscribers a $15 subsidy, a second group $20 and a third no subsidy (groups are offered plans based on zip code). These subsidies will lower the offered price by the subsidy amount for a menu of plans, which are varied based on usage limits. By allowing customers to select their usage limits, Nexus will be able to report subscribers’ willingness to pay for data limit increases and also learn if subscribers were satisfied retrospectively with their choice. Lifeline support for this project will not exceed $2,800,000, with no reimbursement for non-recurring fees.</p>
 
-Contact:  Danielle Frappier, 202-973-4242, daniellefrappier@dwt.com
+<p>Contact: Danielle Frappier, 202&#8211;973&#8211;4242, daniellefrappier@dwt.com</p>
 
-[NY](#NY)
+<p><a href="#NJ">NJ</a></p>
 
-XChange:  The project will study the effects of varying subsidy amounts.
- 
-XChange, in partnership with the New York City Housing Authority, Older Adults Technology Services, City University of New York Computer Sciences Department and School of Public Affairs, Baruch College, and City University of New York, will focus on offering digital literacy to seniors, and will test a range of subsidy amounts of $10, $15 and $20, by randomizing three different broadband plans priced at $4.99, $9.99 and $19.99 based on buildings and neighborhoods in Central Brooklyn, New York.  XChange will employ three different broadband technologies (two wireline plans and one fixed-wireless plan). Lifeline support for this project will not exceed $1,897,320, and includes reimbursement for non-recurring fees.
+<p>Nexus: The project will study the effects of varying subsidy amounts, usage limits and access to digital literacy.</p>
 
-Contact:  Mordy Gross, 646-722-7285, MGross@xchangetele.com
+<p>Nexus, in partnership with Connect Ohio, will test the effect of subsidy amounts and digital literacy on adoption by giving one group of subscribers a $15 subsidy, a second group $20 and a third no subsidy (groups are offered plans based on zip code). These subsidies will lower the offered price by the subsidy amount for a menu of plans, which are varied based on usage limits. By allowing customers to select their usage limits, Nexus will be able to report subscribers’ willingness to pay for data limit increases and also learn if subscribers were satisfied retrospectively with their choice. Lifeline support for this project will not exceed $2,800,000, with no reimbursement for non-recurring fees.</p>
 
-[OH](#OH)
+<p>Contact: Danielle Frappier, 202&#8211;973&#8211;4242, daniellefrappier@dwt.com</p>
 
-Frontier:  The project will study the impact of financial incentives to take digital literacy training on broadband adoption.
+<p><a href="#NM">NM</a></p>
 
-Frontier, in partnership with Connect Ohio (a subsidiary of Connected Nation) and Mission West Virginia, will test whether offering financial incentives increases the likelihood that subscribers will take digital literacy training.  Frontier will permit subscribers to choose from three offers within the pilot project.  The first is a $20 monthly subsidy off a range of wireline broadband plans.  The second requires participation in a digital literacy program and receives a $30 monthly subsidy and a waiver of the $34.99 non-recurring charge.  The third choice requires participation in a digital literacy program in order to receive the $20 monthly subsidy and a free computer.  For the second and third offers, Frontier will have a test group in which subscribers are required to take training, and a control group, in which subscribers are encouraged to take training but will not receive incentives for doing so.  This project is unique in testing whether a financial incentive to take digital literacy training can help in overcoming adoption hurdles (e.g., addressing relevance, privacy concerns).  Lifeline support for this project will not exceed $418,122, and includes reimbursement for non-recurring fees.
+<p>NTCA Application: The project will study the effects of decreasing subsidy amounts over the year.</p>
 
-Contact:  Michael Saperstein, 202-223-6807, Michael.Saperstein@ftr.com
+<p>The NTCA Application, which includes Alpine Communications (IA) and Leaco Rural Telephone (NM), in partnership with Connected Nation, will test subsidy design by offering a range of wireline broadband plans in one state with a flat subsidy amount of $25 per month for all 12 months and offering a range of wireline broadband plans in another state with a sliding scale subsidy that is initially $40 per month for the first quarter and is reduced each quarter thereafter in increments of $10, with the last quarter providing a subsidy of $10 per month, thereby increasing the monthly end-user charge by $30. Lifeline support for this project will not exceed $202,652, and includes reimbursement for non-recurring fees. The budget is broken-up between the ETCs as follows: Alpine Communications’ budget will not exceed $35,995; and Leaco Rural Telephone’s budget will not exceed $166,657.</p>
 
-Nexus:  The project will study the effects of varying subsidy amounts, usage limits and access to digital literacy.
- 
-Nexus, in partnership with Connect Ohio, will test the effect of subsidy amounts and digital literacy on adoption by giving one group of subscribers a $15 subsidy, a second group $20 and a third no subsidy (groups are offered plans based on zip code).  These subsidies will lower the offered price by the subsidy amount for a menu of plans, which are varied based on usage limits.  By allowing customers to select their usage limits, Nexus will be able to report subscribers’ willingness to pay for data limit increases and also learn if subscribers were satisfied retrospectively with their choice.  Lifeline support for this project will not exceed $2,800,000, with no reimbursement for non-recurring fees.
+<p>Contact: Alpine Communications – Lori Keppler, 563&#8211;245&#8211;4000, www.alpinecom.net; Leaco Rural Telephone – Charity Benton, 575&#8211;370&#8211;5010, www.leaco.net</p>
 
-Contact:  Danielle Frappier, 202-973-4242, daniellefrappier@dwt.com
+<p><a href="#NV">NV</a></p>
 
-Virgin Mobile:  The project will study the effects of subsidy amounts and discounted equipment.
- 
-Virgin Mobile, in partnership with Technology Goes Home, will test the effect on adoption and retention of discounted prices and device costs by randomly offering one of four treatment groups to a large, geographically diverse sample.  Two groups of subscribers will pay $20 while another two groups of subscribers will pay $0 with a $20 activation fee.  This project will provide information on customers’ relative sensitivity to upfront and ongoing costs, as well as the expected subscribership increase from a lower cost offering.  This will also provide information on adoption and data usage.  Lifeline support for this project will not exceed $1,200,000, with no reimbursement for non-recurring fees.
+<p>Nexus: The project will study the effects of varying subsidy amounts, usage limits and access to digital literacy.</p>
 
-Contact:  Elaine M. Divelbliss, 908-660-0358, Elaine.Divelbliss@sprint.com
+<p>Nexus, in partnership with Connect Ohio, will test the effect of subsidy amounts and digital literacy on adoption by giving one group of subscribers a $15 subsidy, a second group $20 and a third no subsidy (groups are offered plans based on zip code). These subsidies will lower the offered price by the subsidy amount for a menu of plans, which are varied based on usage limits. By allowing customers to select their usage limits, Nexus will be able to report subscribers’ willingness to pay for data limit increases and also learn if subscribers were satisfied retrospectively with their choice. Lifeline support for this project will not exceed $2,800,000, with no reimbursement for non-recurring fees.</p>
 
-[PR](#PR)
+<p>Contact: Danielle Frappier, 202&#8211;973&#8211;4242, daniellefrappier@dwt.com</p>
 
-PR Wireless (Puerto Rico):  The project will study the effects of providing a subsidy amount and access to different types of equipment.
- 
-PR Wireless, in partnership with Connected Nation, will test the effects of subsidy amounts and access to equipment on adoption by offering one group of consumers subsidized broadband and a second control group no subsidy.  PR Wireless will offer a flat subsidy of $25 off five different wireless broadband plans, each with the same end-user charge and usage limits, but with access to different equipment (e.g., USB modem, hotspot modem (mi-fi), tablet, laptop, desktop) that the subscriber would pay for at a discounted amount.  The study will collect data on how the type of equipment impacts data usage and adoption.  Lifeline support for this project will not exceed $661,613, and includes reimbursement for non-recurring fees.
+<p><a href="#NY">NY</a></p>
 
-Contact:  Javier Lamoso, 787-531-2494, javier.lamoso@openmobilepr.com
+<p>XChange: The project will study the effects of varying subsidy amounts.</p>
 
-Puerto Rico Telephone Company (PRT) (Puerto Rico):  The project will examine consumers’ choice of wireline or wireless broadband, speeds for wireline broadband and usage limits for wireless broadband.
- 
-PRT, in partnership with The Research Office, Inc., will test consumers’ preference for wireless or wireline broadband, and usage limits by offering subscribers the option to choose among four different project offerings with differing end-user prices.   One option gives consumers the choice of wireline broadband that is bundled with wireline voice service at speeds of either 2 Mbps download, 1 Mbps upload or 4 Mbps download, 1 Mbps upload.  PRT will offer consumers a $5 subsidy off the wireline broadband plans.  The other three project offerings give consumers the option of purchasing a wireless broadband plan with different usage limits of either 2 GB or 3 GB, that is either stand-alone broadband or bundled with wireline voice service.  PRT will offer consumers the option of a $5 subsidy off the bundled wireless plan, or $18.50 off the stand-alone broadband plans.  Lifeline support for this project will not exceed $2,500,000, with no reimbursement for non-recurring fees.
+<p>XChange, in partnership with the New York City Housing Authority, Older Adults Technology Services, City University of New York Computer Sciences Department and School of Public Affairs, Baruch College, and City University of New York, will focus on offering digital literacy to seniors, and will test a range of subsidy amounts of $10, $15 and $20, by randomizing three different broadband plans priced at $4.99, $9.99 and $19.99 based on buildings and neighborhoods in Central Brooklyn, New York. XChange will employ three different broadband technologies (two wireline plans and one fixed-wireless plan). Lifeline support for this project will not exceed $1,897,320, and includes reimbursement for non-recurring fees.</p>
 
-Contact:  Tom Navin, 202-719-7487, TNavin@wileyrein.com
+<p>Contact: Mordy Gross, 646&#8211;722&#8211;7285, MGross@xchangetele.com</p>
 
-T-Mobile Puerto Rico LLC (T-Mobile):  The project will study the effects of outreach methods and varying usage limits.
+<p><a href="#OH">OH</a></p>
 
-T-Mobile, in partnership with Sistema Universitario Ana G Mendez and Centro Para Puerto Rico, will test certain advertising and outreach methods to determine which type of outreach most effectively increases broadband adoption.  T-Mobile will offer a flat-rate subsidy of $20 off broadband plans with varying usage limits.  The budget for this project will not exceed $505,400, with no reimbursement for non-recurring fees.
+<p>Frontier: The project will study the impact of financial incentives to take digital literacy training on broadband adoption.</p>
 
-Contact:  Liza Rios Morales, Liza.RiosMorales@T-Mobile.com
+<p>Frontier, in partnership with Connect Ohio (a subsidiary of Connected Nation) and Mission West Virginia, will test whether offering financial incentives increases the likelihood that subscribers will take digital literacy training. Frontier will permit subscribers to choose from three offers within the pilot project. The first is a $20 monthly subsidy off a range of wireline broadband plans. The second requires participation in a digital literacy program and receives a $30 monthly subsidy and a waiver of the $34.99 non-recurring charge. The third choice requires participation in a digital literacy program in order to receive the $20 monthly subsidy and a free computer. For the second and third offers, Frontier will have a test group in which subscribers are required to take training, and a control group, in which subscribers are encouraged to take training but will not receive incentives for doing so. This project is unique in testing whether a financial incentive to take digital literacy training can help in overcoming adoption hurdles (e.g., addressing relevance, privacy concerns). Lifeline support for this project will not exceed $418,122, and includes reimbursement for non-recurring fees.</p>
 
-[TX](#TX)
+<p>Contact: Michael Saperstein, 202&#8211;223&#8211;6807, Michael.Saperstein@ftr.com</p>
 
-TracFone Smartphone Project:  The project will study the
-effects of subsidy amounts and discounted hardware.
+<p>Nexus: The project will study the effects of varying subsidy amounts, usage limits and access to digital literacy.</p>
 
-TracFone, in partnership with Technology Goes Home, will test the effect of both discounted price and hardware cost on mobile broadband adoption and retention using four variations in its broadband service plans and one control group randomly assigned over a large, geographically diverse sample.  By offering varying combinations of free or discounted hardware and $10 or $20 per month service, low-income customers’ sensitivity to upfront and ongoing prices can be measured.  By comparing the two variations in offers with the control group, which is priced at market rate, TracFone will be able to estimate the take-rate for each price point with 2 GB on data limits.  Lifeline support for this project will not exceed $915,000, with no reimbursement for non-recurring fees.
+<p>Nexus, in partnership with Connect Ohio, will test the effect of subsidy amounts and digital literacy on adoption by giving one group of subscribers a $15 subsidy, a second group $20 and a third no subsidy (groups are offered plans based on zip code). These subsidies will lower the offered price by the subsidy amount for a menu of plans, which are varied based on usage limits. By allowing customers to select their usage limits, Nexus will be able to report subscribers’ willingness to pay for data limit increases and also learn if subscribers were satisfied retrospectively with their choice. Lifeline support for this project will not exceed $2,800,000, with no reimbursement for non-recurring fees.</p>
 
-Contact:  Linda Jacobs, 305-715-6645, LJacobs@tracfone.com
+<p>Contact: Danielle Frappier, 202&#8211;973&#8211;4242, daniellefrappier@dwt.com</p>
 
-[VT](#VT)
+<p>Virgin Mobile: The project will study the effects of subsidy amounts and discounted equipment.</p>
 
-Vermont Telephone:  The project will study the effect of increasing end user prices on retention.
- 
-Vermont Telephone, in partnership with Connected Nation, will test subsidy design and amounts by offering two different wireline broadband plans.  Normally, Vermont Telephone’s retail plans provide a lower rate during the first 6 months, and then increase to a higher monthly charge.  For one plan, they will maintain a uniform $9.95 end-user charge for the full 12 months.  For the second plan, they will test a $9.95 end-user charge for the first three months, followed by a $14.95 end-user charge for the remaining 9 months.   Lifeline support for this project will not exceed $150,000, with no reimbursement for non-recurring fees.
+<p>Virgin Mobile, in partnership with Technology Goes Home, will test the effect on adoption and retention of discounted prices and device costs by randomly offering one of four treatment groups to a large, geographically diverse sample. Two groups of subscribers will pay $20 while another two groups of subscribers will pay $0 with a $20 activation fee. This project will provide information on customers’ relative sensitivity to upfront and ongoing costs, as well as the expected subscribership increase from a lower cost offering. This will also provide information on adoption and data usage. Lifeline support for this project will not exceed $1,200,000, with no reimbursement for non-recurring fees.</p>
 
-Contact:  John Caceres, 802-885-7778, johnc@vermontel.com
+<p>Contact: Elaine M. Divelbliss, 908&#8211;660&#8211;0358, Elaine.Divelbliss@sprint.com</p>
 
-[WA](#WA)
+<p><a href="#PR">PR</a></p>
 
-TracFone Smartphone Project:  The project will study the
-effects of subsidy amounts and discounted hardware.
+<p>PR Wireless (Puerto Rico): The project will study the effects of providing a subsidy amount and access to different types of equipment.</p>
 
-TracFone, in partnership with Technology Goes Home, will test the effect of both discounted price and hardware cost on mobile broadband adoption and retention using four variations in its broadband service plans and one control group randomly assigned over a large, geographically diverse sample.  By offering varying combinations of free or discounted hardware and $10 or $20 per month service, low-income customers’ sensitivity to upfront and ongoing prices can be measured.  By comparing the two variations in offers with the control group, which is priced at market rate, TracFone will be able to estimate the take-rate for each price point with 2 GB on data limits.  Lifeline support for this project will not exceed $915,000, with no reimbursement for non-recurring fees.
+<p>PR Wireless, in partnership with Connected Nation, will test the effects of subsidy amounts and access to equipment on adoption by offering one group of consumers subsidized broadband and a second control group no subsidy. PR Wireless will offer a flat subsidy of $25 off five different wireless broadband plans, each with the same end-user charge and usage limits, but with access to different equipment (e.g., USB modem, hotspot modem (mi-fi), tablet, laptop, desktop) that the subscriber would pay for at a discounted amount. The study will collect data on how the type of equipment impacts data usage and adoption. Lifeline support for this project will not exceed $661,613, and includes reimbursement for non-recurring fees.</p>
 
-Contact:  Linda Jacobs, 305-715-6645, LJacobs@tracfone.com
+<p>Contact: Javier Lamoso, 787&#8211;531&#8211;2494, javier.lamoso@openmobilepr.com</p>
 
-[WI](#WI)
+<p>Puerto Rico Telephone Company (PRT) (Puerto Rico): The project will examine consumers’ choice of wireline or wireless broadband, speeds for wireline broadband and usage limits for wireless broadband.</p>
 
-TracFone Smartphone Project:  The project will study the
-effects of subsidy amounts and discounted hardware.
+<p>PRT, in partnership with The Research Office, Inc., will test consumers’ preference for wireless or wireline broadband, and usage limits by offering subscribers the option to choose among four different project offerings with differing end-user prices. One option gives consumers the choice of wireline broadband that is bundled with wireline voice service at speeds of either 2 Mbps download, 1 Mbps upload or 4 Mbps download, 1 Mbps upload. PRT will offer consumers a $5 subsidy off the wireline broadband plans. The other three project offerings give consumers the option of purchasing a wireless broadband plan with different usage limits of either 2 GB or 3 GB, that is either stand-alone broadband or bundled with wireline voice service. PRT will offer consumers the option of a $5 subsidy off the bundled wireless plan, or $18.50 off the stand-alone broadband plans. Lifeline support for this project will not exceed $2,500,000, with no reimbursement for non-recurring fees.</p>
 
-TracFone, in partnership with Technology Goes Home, will test the effect of both discounted price and hardware cost on mobile broadband adoption and retention using four variations in its broadband service plans and one control group randomly assigned over a large, geographically diverse sample.  By offering varying combinations of free or discounted hardware and $10 or $20 per month service, low-income customers’ sensitivity to upfront and ongoing prices can be measured.  By comparing the two variations in offers with the control group, which is priced at market rate, TracFone will be able to estimate the take-rate for each price point with 2 GB on data limits.  Lifeline support for this project will not exceed $915,000, with no reimbursement for non-recurring fees.
+<p>Contact: Tom Navin, 202&#8211;719&#8211;7487, TNavin@wileyrein.com</p>
 
-Contact:  Linda Jacobs, 305-715-6645, LJacobs@tracfone.com
+<p>T-Mobile Puerto Rico LLC (T-Mobile): The project will study the effects of outreach methods and varying usage limits.</p>
 
-[WV](#WV)
+<p>T-Mobile, in partnership with Sistema Universitario Ana G Mendez and Centro Para Puerto Rico, will test certain advertising and outreach methods to determine which type of outreach most effectively increases broadband adoption. T-Mobile will offer a flat-rate subsidy of $20 off broadband plans with varying usage limits. The budget for this project will not exceed $505,400, with no reimbursement for non-recurring fees.</p>
 
-Frontier:  The project will study the impact of financial incentives to take digital literacy training on broadband adoption.
+<p>Contact: Liza Rios Morales, Liza.RiosMorales@T-Mobile.com</p>
 
-Frontier, in partnership with Connect Ohio (a subsidiary of Connected Nation) and Mission West Virginia, will test whether offering financial incentives increases the likelihood that subscribers will take digital literacy training.  Frontier will permit subscribers to choose from three offers within the pilot project.  The first is a $20 monthly subsidy off a range of wireline broadband plans.  The second requires participation in a digital literacy program and receives a $30 monthly subsidy and a waiver of the $34.99 non-recurring charge.  The third choice requires participation in a digital literacy program in order to receive the $20 monthly subsidy and a free computer.  For the second and third offers, Frontier will have a test group in which subscribers are required to take training, and a control group, in which subscribers are encouraged to take training but will not receive incentives for doing so.  This project is unique in testing whether a financial incentive to take digital literacy training can help in overcoming adoption hurdles (e.g., addressing relevance, privacy concerns).  Lifeline support for this project will not exceed $418,122, and includes reimbursement for non-recurring fees.
+<p><a href="#TX">TX</a></p>
 
-Contact:  Michael Saperstein, 202-223-6807, Michael.Saperstein@ftr.com
+<p>TracFone Smartphone Project: The project will study the
+effects of subsidy amounts and discounted hardware.</p>
 
+<p>TracFone, in partnership with Technology Goes Home, will test the effect of both discounted price and hardware cost on mobile broadband adoption and retention using four variations in its broadband service plans and one control group randomly assigned over a large, geographically diverse sample. By offering varying combinations of free or discounted hardware and $10 or $20 per month service, low-income customers’ sensitivity to upfront and ongoing prices can be measured. By comparing the two variations in offers with the control group, which is priced at market rate, TracFone will be able to estimate the take-rate for each price point with 2 GB on data limits. Lifeline support for this project will not exceed $915,000, with no reimbursement for non-recurring fees.</p>
 
+<p>Contact: Linda Jacobs, 305&#8211;715&#8211;6645, LJacobs@tracfone.com</p>
 
+<p><a href="#VT">VT</a></p>
 
+<p>Vermont Telephone: The project will study the effect of increasing end user prices on retention.</p>
+
+<p>Vermont Telephone, in partnership with Connected Nation, will test subsidy design and amounts by offering two different wireline broadband plans. Normally, Vermont Telephone’s retail plans provide a lower rate during the first 6 months, and then increase to a higher monthly charge. For one plan, they will maintain a uniform $9.95 end-user charge for the full 12 months. For the second plan, they will test a $9.95 end-user charge for the first three months, followed by a $14.95 end-user charge for the remaining 9 months. Lifeline support for this project will not exceed $150,000, with no reimbursement for non-recurring fees.</p>
+
+<p>Contact: John Caceres, 802&#8211;885&#8211;7778, johnc@vermontel.com</p>
+
+<p><a href="#WA">WA</a></p>
+
+<p>TracFone Smartphone Project: The project will study the
+effects of subsidy amounts and discounted hardware.</p>
+
+<p>TracFone, in partnership with Technology Goes Home, will test the effect of both discounted price and hardware cost on mobile broadband adoption and retention using four variations in its broadband service plans and one control group randomly assigned over a large, geographically diverse sample. By offering varying combinations of free or discounted hardware and $10 or $20 per month service, low-income customers’ sensitivity to upfront and ongoing prices can be measured. By comparing the two variations in offers with the control group, which is priced at market rate, TracFone will be able to estimate the take-rate for each price point with 2 GB on data limits. Lifeline support for this project will not exceed $915,000, with no reimbursement for non-recurring fees.</p>
+
+<p>Contact: Linda Jacobs, 305&#8211;715&#8211;6645, LJacobs@tracfone.com</p>
+
+<p><a href="#WI">WI</a></p>
+
+<p>TracFone Smartphone Project: The project will study the
+effects of subsidy amounts and discounted hardware.</p>
+
+<p>TracFone, in partnership with Technology Goes Home, will test the effect of both discounted price and hardware cost on mobile broadband adoption and retention using four variations in its broadband service plans and one control group randomly assigned over a large, geographically diverse sample. By offering varying combinations of free or discounted hardware and $10 or $20 per month service, low-income customers’ sensitivity to upfront and ongoing prices can be measured. By comparing the two variations in offers with the control group, which is priced at market rate, TracFone will be able to estimate the take-rate for each price point with 2 GB on data limits. Lifeline support for this project will not exceed $915,000, with no reimbursement for non-recurring fees.</p>
+
+<p>Contact: Linda Jacobs, 305&#8211;715&#8211;6645, LJacobs@tracfone.com</p>
+
+<p><a href="#WV">WV</a></p>
+
+<p>Frontier: The project will study the impact of financial incentives to take digital literacy training on broadband adoption.</p>
+
+<p>Frontier, in partnership with Connect Ohio (a subsidiary of Connected Nation) and Mission West Virginia, will test whether offering financial incentives increases the likelihood that subscribers will take digital literacy training. Frontier will permit subscribers to choose from three offers within the pilot project. The first is a $20 monthly subsidy off a range of wireline broadband plans. The second requires participation in a digital literacy program and receives a $30 monthly subsidy and a waiver of the $34.99 non-recurring charge. The third choice requires participation in a digital literacy program in order to receive the $20 monthly subsidy and a free computer. For the second and third offers, Frontier will have a test group in which subscribers are required to take training, and a control group, in which subscribers are encouraged to take training but will not receive incentives for doing so. This project is unique in testing whether a financial incentive to take digital literacy training can help in overcoming adoption hurdles (e.g., addressing relevance, privacy concerns). Lifeline support for this project will not exceed $418,122, and includes reimbursement for non-recurring fees.</p>
+
+<p>Contact: Michael Saperstein, 202&#8211;223&#8211;6807, Michael.Saperstein@ftr.com</p>
